@@ -24,8 +24,9 @@
     'depends': ['base'],
 
     # always loaded
+    ### bien
     'data': [
-        'security/ir.model.access.csv',
+        #'security/ir.model.access.csv',
         'views.xml',
     ],
     # only loaded in demonstration mode
